@@ -29,13 +29,13 @@ UbD involves a structured planning process for developing curriculum and instruc
 
 What transfer should occur, *i.e.* what should students know and be able to do? What understanding should they carry with them past the experience? What essential questions are explored through learning?
 
-We identify important **content goals**, which often involves established content standards and external expectations. As a result, teachers make choices and prioritize specific content over others.
+We identify important **content goals**, which often involves established content standards and external expectations. As a result, teachers make choices and prioritize specific content over others. We expect students to Acquire (A) such knowledge.
 
-We also identify **performance expectations**: what should students be able to do with what they learned? We envision how they might use their learning in another setting, and what meaning they have made from the experience.
+We also identify **performance expectations**: what should students be able to do with what they learned? We envision how they might use their learning in another setting, and what meaning they have made from the experience. We expect students to Transfer (T) their learning to a new context.
 
 Transfer goals can take a variety of forms: making decision based on analysis, creating a document, making predictions based on pattern recognition, evaluating intellectual claims, or performing a work.
 
-**Essential questions** help students deepend their understanding of the ideas and skills they acquire.
+**Essential questions** help students deepen their understanding of the ideas and skills they acquire. We expect students to create Meaning (M) from what they learn.
 
 Examples of understandings:
 
@@ -69,3 +69,66 @@ Not all facets need be accessed in a performance task, and tasks need not form t
 More recognizable forms of assessment, such as quizzes, observations, and work samples may complement assessment.
 
 Regardless of type, each assessment should be **aligned** explicitly with one or more outcomes.
+
+## Plan learning experiences
+
+How do we support learners in understanding ideas and processes? What knowledge and skills will enable students to achieve the desired outcomes and meet performance expectations?
+What tasks do they need to accomplish in order to transfer their learning?
+
+Typically Acquiring Knowledge (**A**) is emphasized, while Creating Meaning (**M**) and Transferring Skills (**T**) are often neglected goals. In making plans, mark events and activities with **T**, **M**, **A** to remain aware of the balance among them.
+
+Students have a better chance of understanding when they have numerous opportunities to draw inferences and construct knowledge autonomously. They have a better chance of transfer if they have many opportunities to apply learning to novel, authetic situations, and receive timely feedback. 
+
+## FAQ
+
+### Does this framework de-emphasize content knowledge and skill?
+
+The framework challenges the designer to specify the knowledge and skills that are actually necessary for achieving the learning goals. This encourages greater awareness of the purpose of each content unit, and may lead an educator to assess its value and accordingly prioritize some content over others.
+
+### Does the design process apply to individual lesson plans?
+
+The process should be applied at the scale at which understanding is built, which is usually larger than a single lesson.
+
+### Can the Facets of Understanding be mapped to Bloom's Taxonomy?
+
+Bloom's Taxonomy supposes an inherent hierarchy to each type of learning objective, while the Facets are conceived of as orthogonal indicators of understanding.
+
+### How is it possible to cover all six Facets in an assessment?
+
+The Facets are not meant as a measure of an assessment's completeness. The designer should first consider what is *appropriate evidence* of understanding for a particular objective; and use the Facets as a toolbox for assembling an effective assessment.
+
+[SG: In order to assess a diverse classroom and gain a comprehensive picture of understanding, a good assessment will most likely need to employ multiple Facets.] 
+
+### Are textbooks important in implementing this framework?
+
+They can be, in specific roles. A textbook can provide a recognized, uniform presentation of content knowledge. But a designer (for understanding) should not then accept all of the content as equally valuable without examination.
+
+
+## UbD in a nutshell
+
+- ### Stage 1: Desired Results
+    - What long-term transfer goals are targeted?
+    - What meanings should students make in order to arrive at important understandings?
+    - What essential questions will students explore? What knowledge and skill will students acquire? What established goals/standards are targeted?
+- ### Stage 2: Evidence
+    - What performances and products will reveal evidence of meaning-making and transfer?
+    - By what criteria will performance be assessed, in light of Stage 1 desired results?
+    - What additional evidence will be collected for all Stage 1 desired results?
+    - Are the assessments aligned to all Stage 1 elements?
+- ### Stage 3: Learning Plan
+    - What activities, experiences, and lessons will lead to achievement of the desired results and success at the assessments?
+    - How will the learning plan help students with acquisition, meaning-making, and transfer?
+    - How will the unit be sequenced and differentiated to optimize achievement for all learners?
+    - How will progress be monitored?
+    - Are the learning events in Stage 3 aligned with Stage 1 goals and Stage 2 assessments?
+
+- ### The Seven Tenets of the UbD Framework
+    - Learning is enhanced when teachers think purpose- fully about curricular planning. The UbD framework helps this process without offering a rigid process or prescriptive recipe.
+    - The UbD framework helps to focus curriculum and teaching on the development and deepening of student understand- ing and transfer of learning (i.e., the ability to effectively use content knowledge and skill).
+    - Understanding is revealed when students autonomously make sense of and transfer their learning through authentic performance. Six facets of understanding—the capacity to explain, interpret, apply, shift perspective, empathize, and self-assess—can serve as indicators of understanding.
+    - Effective curriculum is planned backward from long-term, desired results through a three-stage design process (Desired Results, Evidence, and Learning Plan). This process helps avoid the common problems of treating the textbook as the curriculum rather than a resource, and activity-oriented teaching in which no clear priorities and purposes are apparent.
+    - Teachers are coaches of understanding, not mere pur- veyors of content knowledge, skill, or activity. They focus on ensuring that learning happens, not just teaching (and assuming that what was taught was learned); they always aim and check for successful meaning making and transfer by the learner.
+    - Regularly reviewing units and curriculum against design standards enhances curricular quality and effectiveness, and provides engaging and professional discussions.
+    - The UbD framework reflects a continual improvement approach to student achievement and teacher craft. The results of our designs—student performance—inform needed adjustments in curriculum as well as instruction so that student learning is maximized.
+    - 
+    - 
