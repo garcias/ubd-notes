@@ -123,12 +123,11 @@ They can be, in specific roles. A textbook can provide a recognized, uniform pre
     - Are the learning events in Stage 3 aligned with Stage 1 goals and Stage 2 assessments?
 
 - ### The Seven Tenets of the UbD Framework
-    - Learning is enhanced when teachers think purpose- fully about curricular planning. The UbD framework helps this process without offering a rigid process or prescriptive recipe.
-    - The UbD framework helps to focus curriculum and teaching on the development and deepening of student understand- ing and transfer of learning (i.e., the ability to effectively use content knowledge and skill).
-    - Understanding is revealed when students autonomously make sense of and transfer their learning through authentic performance. Six facets of understanding—the capacity to explain, interpret, apply, shift perspective, empathize, and self-assess—can serve as indicators of understanding.
-    - Effective curriculum is planned backward from long-term, desired results through a three-stage design process (Desired Results, Evidence, and Learning Plan). This process helps avoid the common problems of treating the textbook as the curriculum rather than a resource, and activity-oriented teaching in which no clear priorities and purposes are apparent.
-    - Teachers are coaches of understanding, not mere pur- veyors of content knowledge, skill, or activity. They focus on ensuring that learning happens, not just teaching (and assuming that what was taught was learned); they always aim and check for successful meaning making and transfer by the learner.
+    - Learning is enhanced when teachers think purposefully about curricular planning.
+    - The UbD framework helps to focus curriculum and teaching on the development and deepening of student understanding and transfer of learning.
+    - Understanding is revealed when students autonomously make sense of and transfer their learning through authentic performance. 
+    - Six capacities can serve as indicators of understanding: explain, interpret, apply, shift perspective, empathize, and self-assess.
+    - Effective curriculum is planned backward from long-term, desired results through a three-stage design process (Desired Results, Evidence, and Learning Plan).
+    - Teachers are coaches of understanding, by checking that the learner successfully makes meaning and transfers learning.
     - Regularly reviewing units and curriculum against design standards enhances curricular quality and effectiveness, and provides engaging and professional discussions.
-    - The UbD framework reflects a continual improvement approach to student achievement and teacher craft. The results of our designs—student performance—inform needed adjustments in curriculum as well as instruction so that student learning is maximized.
-    - 
-    - 
+    - The UbD framework supports continual improvement in curriculum and instruction.
