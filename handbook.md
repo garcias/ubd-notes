@@ -4,7 +4,7 @@ At the simplest level, the authors distinguish between between knowledge and und
 
 The authors illustrate this idea with a nonacademic example: the concept of "constraining offensive space" in a team sport. It applies to any position or player on the field, and in full games or 3-on-3 drills.
 
-For a more prosaic example, they offer that reading one group and exploring questions about it should make the next book easier to comprehend and more meaningful.
+For a more prosaic example, they offer that reading one book and exploring questions about it should make the next book easier to comprehend and more meaningful.
 
 
 ## Evidence of understanding
