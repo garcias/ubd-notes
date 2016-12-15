@@ -50,6 +50,12 @@ To prove understanding, students perform **transfer tasks** with the following q
 
 # Understanding understanding
 
+The authors explore a few different ways to describe understanding, focusing on expectations we have of someone with understanding:
+
+- **Meaningful inferences.** A person should pick out patterns from indiviudal facts, infer underlying relationships, and recognize possible implications.
+- **Transferability.** A person should map the features of one situation to another one, and thus apply relationships and practices appropriately.
+- **State of mind.** A person's understanding should change their abilities and habits long-term.
+
 At the simplest level, the authors distinguish between between knowledge and understanding through a visual analogy. Facts and information are like white and black tiles arranged in a pattern. To understand is to *infer* the meaning of the pattern, to create awareness beyond the information given, and the judgment to discriminate between what is relevant and what is incidental.
 
 The authors illustrate this idea with a nonacademic example: the concept of "constraining offensive space" in a team sport. It applies to any position or player on the field, and in full games or 3-on-3 drills.
