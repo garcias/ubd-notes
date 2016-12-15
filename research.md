@@ -1,5 +1,8 @@
 # Summary of research underlying UbD
 
+Summary of "Teaching for Meaning and Understanding: A Summary of Underlying Theory and Research", by Jay McTighe and Elliot Seif
+
+- http://jaymctighe.com/wordpress/wp-content/uploads/2011/04/A_Summary_of_Underlying_Theory_and_Research2.pdf
 
 Research explores differences between novice and expert in various fields. Experts have "well-organized knowledge of concepts and methods of inquiry". (Bransford, Brown, Cocking, 2000, p. 8).
 
@@ -34,7 +37,25 @@ Bottoms, Presson, and Johnson (1992) developed the *High Schools that Work (HSTW
 
 - challenging curriculum that encourages students to use content and processes to complete (authetic) tasks
 - teaching for understanding, which creates situations that challenge students to solve problems and create products
-- teaching in context to apply academic learning to real problems - clear performance standards that demand students to demonstrate understanding
+- teaching in context to apply academic learning to real problems 
+- clear performance standards that demand students to demonstrate understanding
 
-A study of this program found that students engaged in HSTW curriculum are more likely to achieve the HSTW achievement goals.
+A study of this program by the National Center for Research in Vocational Education (2000) found that students engaged in HSTW curriculum are more likely to achieve the HSTW achievement goals.
+
+
+## Mathematics
+
+The National Council of Teachers of Mathematics (NCTM) has developed mathematics standards that shift emphasis from rote memorization to conceptula foundations. The authors suggest this change is responsible for new curricular materials that focus on understanding, "complex problem solving", explanation of work, and "authentic" performance. A 2003 review of 13 studies by Senk and Thompson, 14 years later, suggested that elementary students using the *Investigations* program performed better on word problems, complex calculations, and explanation of operations. They also concluded that high-school students do not learn content any better but do "develop other skills and understandings" while not falling behind on content.
+
+
+## Instructional practices
+
+A variety of studies (Stone, 1983; Redfield and Rousseau, 1981; Andre, 1979; Pressley, 1992) have measured the impact of specific instructional practices, such as using advance organizers to help students connect ideas; asking higher-level questions during instruction; inserting higher-order questions in text; and prompting students to explain in response to questions activates students for future instruction. 
+
+Marzano, Pickering, and Pollock (2001) summarized recurring types of effective strategies:
+
+- Identifying similarities and differences (compare/contrast)
+- coupling verbal with nonverbal representations
+- Generating and testing hypotheses
+- Asking students to explain their thinking
 
