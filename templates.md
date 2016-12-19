@@ -34,16 +34,16 @@ What evidence will demonstrate achievement of specific outcomes? How will reflec
 
 How will the course:
 
-- establish purpose and signal expectations?
-- hold the students' interests?
-- equip students to reach the outcomes
-- adapt to diverse needs and abilities?
-- organize activities?
+- **Establish**: purpose and expectations?
+- **Hold**: the students' interest?
+- **Equip**: students to reach the outcomes
+- **Adapt**: to diverse needs and abilities?
+- **Organize**: activities and align with goals?
 
 How will students:
 
-- explore and experiment with ideas?
-- evaluate ___ of their work?
-- change their minds?
-- reflect on their experience?
+- **Explore**: explore, experience, and experiment with ideas?
+- **Evaluate**: their work and understanding?
+- **Revise**: Rethink and revise change their minds?
+- **Reflect**: identify changes to their understanding and role of experience?
 
