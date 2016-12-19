@@ -104,9 +104,30 @@ The authors point out some attributes of "big ideas":
 - timeless
 - represented by examples with common attributes
 
-They assert that such ideas provide a focusing lens for studying a particular topic, and provide the thread connecting detailed facts and skills. They often expose the difference between expert and novice abilities, often in the form of a common misunderstanding. They should transfer across subjects and over time.
+They assert that such ideas provide a focusing lens for studying a particular topic, and provide the thread connecting detailed facts and skills. They can expose the difference between expert and novice abilities, often in the form of a common misunderstanding. They should transfer across subjects and over time.
 
 
 ## Provocative idea of UbD
 
 UbD actively embraces a core idea that is so unintuitive to many people: that thorough, deep undestanding of a discipline's representative ideas *is equivalent to* knowing the entire discipline, because it promotes comprehension of patterns, speeds acquisition of other elements, and generates new knowledge for the discipline.
+
+
+## Methods of generating big ideas
+
+1. Identify abstract ideas in general educational standards and goals.
+2. Identify recurring nouns and verbs in standards documents.
+3. Refer and reuse common transferrable concepts, e.g., equilibrium, interactions, patterns, perspective.
+4. Ask generative questions about a topic, e.g., What makes {...} universal? How is the concept of {...} used in practice?
+5. Express distinctions, e.g. absorb vs reflect, continuity vs change, nation vs people, meaning vs syntax.
+
+Enliven these ideas with:
+
+- potential misunderstandings
+- paradoxes
+- counterintuitive examples
+- difficulty of proving something
+
+Link these ideas with skills, e.g.
+
+- To persuade, a writer must understand persuasion itself and why some techniques are effective in some situations rather than others.
+- To create an appropriate model, one must understand what makes it valid and applicable, and the potential ways models can mislead.
