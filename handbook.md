@@ -47,6 +47,15 @@ To prove understanding, students perform **transfer tasks** with the following q
 - identifies additional problems
 - must distinguish students with knowledge and skill but not undertanding
 
+# Backward design
+
+The authors describe three stages of backward design:
+
+1. Identify desired results
+2. Determine acceptable evidence of understanding
+3. Plan learning experience to produce understanding
+
+The authors propose a design template for planning and monitoring the process of backward design.  
 
 # Understanding understanding
 
