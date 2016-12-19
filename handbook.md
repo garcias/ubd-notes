@@ -55,7 +55,8 @@ The authors describe three stages of backward design:
 2. Determine acceptable evidence of understanding
 3. Plan learning experience to produce understanding
 
-The authors propose a design template for planning and monitoring the process of backward design.  
+The authors propose a design template for planning and monitoring the process of backward design. This (non popular) template articulates the elements of a design that need to be determined and specified.
+
 
 # Understanding understanding
 
