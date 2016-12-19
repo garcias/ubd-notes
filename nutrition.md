@@ -68,3 +68,23 @@
 3. Vendors put health above profit.
 4. Menu planning is only about food groups (rather than balancing cost, taste, culture, and personal needs)
 
+## Learning plan
+
+1. Begin with an entry question: "Can the food you eat cause acne?". Hook.
+2. Introduce the the Essential Questions and discuss culminating performance tasks: the brochure and menu planning. Establish.
+3. Students read and discuss selections from health textbook, keep a chart of their daily eating and drinking for later; introduce key vocabulary terms throughout. Equip, Explore.
+4. Present concept attainment lesson on food groups and have students practice categorizing pictures of food according to these groups. Equip.
+5. Introduce food pyramid; students work in teams to develop poster with cut-out pictures of food; display posters in hallway. Equip, Explore.
+6. Give matching quiz on food groups and food pyramid. Evaluate.
+7. Review and discuss USDA nutrition brochure with question: "Must everyone follow the same diet to be healthy?". Revise.
+8. In teams students analyze hypothetical family's (unbalanced) diet and recommend improvements; observe and coach students as they work. Evaluate.
+9. Teams share their analyses and discuss as a class; collect analyses and look for misunderstandings. Evaluate, Explore, Equip.
+10. Each student designs an illustrated nutrition brochure to teach children about the importance of good nutrition for healthy living, and problems associated with poor eating (outside of class). Explore, Adapt.
+11. Students share brochures for peer assessment based on criteria list; students make revisions in response to feedback. Revise, Evaluate.
+12. Show video "Nutrition and You"; discuss health problems linked to poor eating. Explore.
+13. Students listen and question a guest speaker (hospital nutritionist) about health problems. Explore.
+14. Students write response papers: Describe two health problems that could arise from poor nutrition and explain what changes in eating could help avoid them; collect and check for misunderstandings. Evaluate.
+15. Walk students through process on reading and interpreting food label information for nutritional information; students practice with donated food packages. Explore, Equip.
+16. Students work individually to develop three-day camp menu; collect and give feedback; students assess projects using rubrics. Evaluate, Adapt.
+17. Students review their daily eating chart and self assess healthfulness of diet: changes, improvements, feelings?. Evaluate, Reflect.
+18. Students develop personal "eating action plan" to improve their health; collect and present at student-led parent conferences. Evaluate, Adapt.
