@@ -34,8 +34,9 @@ What evidence will demonstrate achievement of specific outcomes? How will reflec
 
 How will the course:
 
-- signal purpose and expectations?
+- establish purpose and signal expectations?
 - hold the students' interests?
+- equip students to reach the outcomes
 - adapt to diverse needs and abilities?
 - organize activities?
 
