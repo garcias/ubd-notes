@@ -120,14 +120,93 @@ UbD actively embraces a core idea that is so unintuitive to many people: that th
 4. Ask generative questions about a topic, e.g., What makes {...} universal? How is the concept of {...} used in practice?
 5. Express distinctions, e.g. absorb vs reflect, continuity vs change, nation vs people, meaning vs syntax.
 
-Enliven these ideas with:
+### Enliven core ideas with:
 
 - potential misunderstandings
 - paradoxes
 - counterintuitive examples
 - difficulty of proving something
 
-Link these ideas with skills, e.g.
+### Link core ideas with skills
+
+For example, 
 
 - To persuade, a writer must understand persuasion itself and why some techniques are effective in some situations rather than others.
 - To create an appropriate model, one must understand what makes it valid and applicable, and the potential ways models can mislead.
+
+### Use common types of questions for stimulating inquiry
+
+- Why study {{topic}}? Why does it matter?
+- What makes studying {{topic}} universally relevant?
+- What is the moral of the narrative about {{topic}}?
+- What core idea is implied by the process of {{topic}}?
+- What larger problems underly {{topic}}?
+- What would happen if we didn't understand {{topic}}?
+- How do others use and apply {{topic}}?
+
+### Use suggestive pairs to generate ideas
+
+- absorb and reflect
+- action and reaction
+- capital and labor
+- constant and variable
+- continuity and change
+- factor and result
+- fate and freedom
+- light and shadow
+- like and unlike
+- literal and figurative
+- matter and energy
+- power and governance
+- sign and signified
+- structure and function
+- sum and difference
+
+
+### Look to common transferable concepts
+
+For example, the NGSS defines "cross-cutting concepts" that students should encounter and recognize across disciplines and grade levels.
+
+Within discourse on pedagogy, many transferable concepts have been identified, such as:
+
+- competition for resources
+- adaptation to change
+- aging and maturity
+- balance and tradeoffs
+- change vs continuity
+- community
+- compassion
+- conflict
+- consistency
+- cooperation
+- correlation
+- courage
+- cycles
+- defense vs exploration
+- democracy
+- dignity
+- discovery and invention
+- environment
+- equilibrium
+- evolution
+- fairness
+- friendship
+- harmony
+- honor and loyalty
+- interactions
+- interdependence
+- justice and liberty
+- migration
+- mood
+- order
+- patterns
+- perspective
+- productivity
+- quality vs quantity
+- proof and refutation
+- rhythm
+- survival
+- symbol
+- system
+- technology
+- variability
