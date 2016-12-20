@@ -118,3 +118,78 @@ The authors catalog some broad misunderstandings, some of them about learing its
 - Real numbers are more representative than imaginary numbers.
 - The evolution of species is a controversial assertion.
 - Literary irony is just a coincidence.
+
+## Essential questions
+
+According to the authors, the purpose of essential questions is to focus the mind on general, abstract big ideas even while it is wading through specific content. Essential questions help the student to "interrogate" the content, which should in turn deepen their understanding. They describe essential questions as inviting dispute, lacking concise final answers, and leading the student to confrong misunderstandings. Quoting Bruner (1996), they describe questions that "pose dilemmas, subvert obvious truths, or force incongruities upon our attention". They often elicit alternative views and expose the reasoning used to arrive at and justify our answers.
+
+The authors caution that essential questions need not be very global. To be essential to a given discipline, they need to be able to *define* that discipline. At the same time, a question should offer transferability across disciplines; it should be able to define another discipline in combination with a different set of essential questions. Finally, an essential question should be an authentic one, one that practitioners of a discipline use in their inquiry.
+
+### Connotations of "Essential"
+
+These questions are essential in four senses:
+
+- They recur throughout one's life, though in different forms.
+- They involve on core ideas in a subject, which may be why they recur.
+- They naturally lead the student to specific content necessary to understand the core ideas.
+- They must be relevant to the learners in question.
+
+(To the last point, the authors point out that desired results may need translation to "kid-friendly" language.)
+
+The authors recommend taking six criteria for assessing whether a question is essential:
+
+1. Stimulates genuine and relevant inquiry into core ideas and content.
+2. Provokes careful thought and discussion.
+3. Leads to new understanding and further questions.
+4. Requires students to consider alternatives, weigh evidence, and support their conclusions.
+5. Prompts rethinking of core ideas, assumptions, and misunderstandings.
+6. The question naturally recurs throughout life and my transfer to other situations.
+
+Draws attention to definitions.
+
+Most importantly, an essential question signals the understanding-related goals of the unit or course.
+
+### Essential questions for skills
+
+The authors note that skill-intensive subjects, such as art, athletics, and experimental methods, can still be defined by essential questions. 
+
+- **Reading.** How can you know that you truly comprehend what you are reading? How necessary is prior knowledge to comprehension?
+- **Laboratory science.** How do we know if a procedure has been implemented correctly? 
+
+The NGSS *Scientific & Engineering Practices* may provide some starting points for generating skill-based essential questions.
+
+
+### Scope of essential questions
+
+
+
+### Examples
+
+- Is the subjunctive mood necessary in English? — in all languages?
+- In what ways is algebra real and in what ways unreal?
+- How precise do we have to be to express ourselves?
+- How much does art reflect culture, and how much does it shape culture?
+- Is everything quantifiable?
+- What is the difference between scientific fact and scientific theory?
+- How do we know that a procedure has been implemented correctly?
+- What makes an experiment reproducible?
+- Who is entitled to own which things? What can they do with what they own?
+- What makes a work worth spending time to read, watch, or do?
+- How have harvest seasons affected life in the United States?
+- Can today's apple farmers sustain their livelihoods economically?
+- How are stories from other places and times about me?
+- To what extent can people predict future criminal behavior?
+- To what extent can people predict chance events?
+- How does a government guard against abuses of power?
+- When error is unavoidable, what margins of error can we tolerate?
+- How should government be allowed to regulate markets?
+- What makes someone a "winner" in athletic competition?
+- How are popularity and greatness related in literature?
+- When should a cook deviate from the recipe?
+- How important is it to give voice to our elders and ancestors?
+- How far should we go in tampering with human biology and chemistry?
+- What makes a law or policy just?
+- Is an author's view privileged in interpreting their work?
+- Can a historical account escape the personal history of its author?
+- 
+
