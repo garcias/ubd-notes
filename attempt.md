@@ -8,6 +8,7 @@
 - Corroborating evidence
 - Structural diversity in materials
 - Limits of knowledge
+- Discriminating false positives
 
 ### Essential questions
 
