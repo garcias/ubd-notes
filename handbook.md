@@ -161,7 +161,45 @@ The NGSS *Scientific & Engineering Practices* may provide some starting points f
 
 ### Scope of essential questions
 
+In unit-level design, there will be an urge to think of essential questions in the context of a specific topic. The authors feel that if a question can be settled by the end of a unit, it is not truly essential. But they point out that topical essential questions can point toward more general ones. For examples:
 
+- What do ceremonial masks reveal about Inca culture? => *How does art reflect and shape culture?*
+- What are possible sources of error in this experiment? => *How do we distinguish inherent error from avoidable error in science?*
+- What are the possible false-positive results in this study? => *How can we detect and correct for bias in investigations?*
+- Why did the Roman Empire collapse? => *What factors play a role in the accumulation of power?*
+
+### Typology of essential questions
+
+The authors suggest classifying essential questions along two dimensions: **intent** (to generate vs to direct) and **scope** (general vs topical). They assert that topical questions are necessary for unit thinking but not sufficient to yield transfer and connection. They recommend explicitly matching topical questions with their general counterparts. 
+
+- **Generative and general.** To what extent is U.S. history one of progress?
+- **Generative and topical.** How might Congress have better protected minority rights?
+- **Focusing and general.** How much progress in civil rights has the U.S. made?
+- **Focusing and topical.** What were defining moments of the civil-rights movement?
+
+### Generating essential questions
+
+The authors suggest a "Jeopardy"-based strategy: take an assertion and then infer the question that leads to it. Then 
+
+**Example.** For the concept "three branches of government", we can generate the following topical questions:
+
+- Why do we need a balance of powers? What is the alternative?
+- What problems were Founders trying to solve with their proposals?
+- Why did Federalists advocate for balance of power? What were the objections?
+
+From these questions, we can suggest more broader questions with less definitive answers:
+
+- What government should we expect if we make certain assumptions about human nature?
+- When is it wise to share power? What do we gain and lose by dividing it?
+
+The authors also suggest starting with declarative standards:
+
+- "All students will apply their understanding of cells to the functioning of multi-cellular organisms, including how cells grow, develop, and reproduce." => *How can we prove that cells make up living things? If we are all made of cells, why don't we all look alike?* => **How do scientists prove anything about entities they can't see or touch?**
+- "Understand dance as a way to create and communicate meaning." => *What ideas can we express through dance? How can stylized motion convey emotion?* => **How do artists express what they think and feel? How does a medium influence a message?**
+
+The authors recommend thinking about facets of understanding to help with generating essential questions that lead to understanding and evidence of understanding. They offer a tool for generating appropriate language appropriate for these facets.
+
+### Using essential questions
 
 ### Examples
 
