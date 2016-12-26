@@ -239,5 +239,40 @@ The authors finish with an impassioned plea for instructors to prioritize essent
 - What makes a law or policy just?
 - Is an author's view privileged in interpreting their work?
 - Can a historical account escape the personal history of its author?
-- 
 
+
+# Crafting understandings
+
+An "understanding":
+
+- expresses an inference drawn from shared and discussed experience
+- *is* a complete idea (rather than just referring to one)
+- transfers across disciplines
+- involves counterintuitive and easily misunderstood ideas
+- hints at the outlines of a historical dispute
+- cannot be grasped immediately, but only by exploring its dimensions
+- requires acquisition of a skill or strategy
+
+
+## Examples
+
+### Understanding as transferable inference
+
+An understanding should express a general inference drawn from the experience of many people and communities. Over time, those who have studied power and liberty have come to understand that various social movements have pioneer and refine different mechanisms to limit the power of government and of individuals. 
+
+### Understanding as constructed
+
+An understanding is hard earned through the process of proposing, testing, and revising ideas. The experts who bequeath us knowledge did not take it on faith, but rather had to construct it and contest it until communities of inquiry could agree on a common expression.
+
+### Understanding as counterintuitive
+
+An understanding is prone to dispute because it involves a counterintuitive idea prone to misunderstanding. Participants have to be careful in expressing the idea, often defining the terms and conditions precisely to ensure they are thinking about the same thing. Gravity is so tricky because it's so easy to confuse speed with acceleration, and to apply relationships inappropriately to different situations.
+
+### Understanding as competency
+
+An understanding requires skill before you can grasp it and transfer it. Close reading is necessary to  ... Vectorial addition is needed to understand how celestial mechanics are perceived by a geocentric observer.
+
+
+- Writing from another person's perspective can help you better understand yourself, others, and the world you live in.
+- Photographs reflect a point of view and can mislead as much as reveal.
+ 
