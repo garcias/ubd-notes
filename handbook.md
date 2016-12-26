@@ -201,6 +201,16 @@ The authors recommend thinking about facets of understanding to help with genera
 
 ### Using essential questions
 
+Since the purpose of essential questions is to elicit curiosity and then guide inquiry into content, they can guide unit and lesson design:
+
+- Select and frame content as answering essential questions.
+- Link assessment tasks to the questions, specifying how responses to questions might look.
+- Scope questions such that you only need 2 to 5 per unit.
+- Expect students to embrace and use the essential questions themselves, and encourage them to personalize the questions.
+- Share broader questions with other instructors so that they can reinforce them.
+
+The authors finish with an impassioned plea for instructors to prioritize essential questions in thinking about and doing their work. The authors encourage us to favor questions that highlight contested ideas and the provisional nature of claims. Doing so invites students to participate in the process of recognizing, proposing, testing, and solidifying understandings. In fact, they suggest that essential questions should serve as the *criteria* against which we judge progress in learning. Ideally we would ask if an educational activity is helping students to answer and explore the essential questions.
+
 ### Examples
 
 - Is the subjunctive mood necessary in English? — in all languages?
