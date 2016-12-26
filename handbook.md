@@ -251,7 +251,8 @@ An "understanding":
 - involves counterintuitive and easily misunderstood ideas
 - hints at the outlines of a historical dispute
 - cannot be grasped immediately, but only by exploring its dimensions
-- requires acquisition of a skill or strategy
+- expresses multiple concepts in relation to each other
+- provides strategic principles for applying skills
 
 
 ## Examples
@@ -266,12 +267,11 @@ An understanding is hard earned through the process of proposing, testing, and r
 
 ### Understanding as counterintuitive
 
-An understanding is prone to dispute because it involves a counterintuitive idea prone to misunderstanding. Participants have to be careful in expressing the idea, often defining the terms and conditions precisely to ensure they are thinking about the same thing. Gravity is so tricky because it's so easy to confuse speed with acceleration, and to apply relationships inappropriately to different situations.
+An understanding is prone to dispute because it involves a counterintuitive idea prone to misunderstanding. Participants have to be careful in expressing the idea, often defining the terms and conditions precisely to ensure they are thinking about the same thing. Gravity is so tricky because it's so easy to confuse speed with acceleration, and to apply relationships inappropriately to different situations. For example, an object's mass affects its gravitational force but not the observed acceleration.
 
-### Understanding as competency
+### Understanding as strategy
 
-An understanding requires skill before you can grasp it and transfer it. Close reading is necessary to  ... Vectorial addition is needed to understand how celestial mechanics are perceived by a geocentric observer.
-
+An understanding requires skill before you can grasp it and transfer it. Thus an understanding should highlight or at least hint at strategic principles for applying skills to solving a problem. Close reading is necessary to finding meaning in a text. Vectorial addition is needed to understand how celestial mechanics are perceived by a geocentric observer.
 
 - Writing from another person's perspective can help you better understand yourself, others, and the world you live in.
 - Photographs reflect a point of view and can mislead as much as reveal.
