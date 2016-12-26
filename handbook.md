@@ -119,13 +119,13 @@ The authors catalog some broad misunderstandings, some of them about learing its
 - The evolution of species is a controversial assertion.
 - Literary irony is just a coincidence.
 
-## Essential questions
+# Essential questions
 
 According to the authors, the purpose of essential questions is to focus the mind on general, abstract big ideas even while it is wading through specific content. Essential questions help the student to "interrogate" the content, which should in turn deepen their understanding. They describe essential questions as inviting dispute, lacking concise final answers, and leading the student to confrong misunderstandings. Quoting Bruner (1996), they describe questions that "pose dilemmas, subvert obvious truths, or force incongruities upon our attention". They often elicit alternative views and expose the reasoning used to arrive at and justify our answers.
 
 The authors caution that essential questions need not be very global. To be essential to a given discipline, they need to be able to *define* that discipline. At the same time, a question should offer transferability across disciplines; it should be able to define another discipline in combination with a different set of essential questions. Finally, an essential question should be an authentic one, one that practitioners of a discipline use in their inquiry.
 
-### Connotations of "Essential"
+## Connotations of "Essential"
 
 These questions are essential in four senses:
 
@@ -149,7 +149,7 @@ Draws attention to definitions.
 
 Most importantly, an essential question signals the understanding-related goals of the unit or course.
 
-### Essential questions for skills
+## Essential questions for skills
 
 The authors note that skill-intensive subjects, such as art, athletics, and experimental methods, can still be defined by essential questions. 
 
@@ -159,7 +159,7 @@ The authors note that skill-intensive subjects, such as art, athletics, and expe
 The NGSS *Scientific & Engineering Practices* may provide some starting points for generating skill-based essential questions.
 
 
-### Scope of essential questions
+## Scope of essential questions
 
 In unit-level design, there will be an urge to think of essential questions in the context of a specific topic. The authors feel that if a question can be settled by the end of a unit, it is not truly essential. But they point out that topical essential questions can point toward more general ones. For examples:
 
@@ -168,7 +168,7 @@ In unit-level design, there will be an urge to think of essential questions in t
 - What are the possible false-positive results in this study? => *How can we detect and correct for bias in investigations?*
 - Why did the Roman Empire collapse? => *What factors play a role in the accumulation of power?*
 
-### Typology of essential questions
+## Typology of essential questions
 
 The authors suggest classifying essential questions along two dimensions: **intent** (to generate vs to direct) and **scope** (general vs topical). They assert that topical questions are necessary for unit thinking but not sufficient to yield transfer and connection. They recommend explicitly matching topical questions with their general counterparts. 
 
@@ -177,7 +177,7 @@ The authors suggest classifying essential questions along two dimensions: **inte
 - **Focusing and general.** How much progress in civil rights has the U.S. made?
 - **Focusing and topical.** What were defining moments of the civil-rights movement?
 
-### Generating essential questions
+## Generating essential questions
 
 The authors suggest a "Jeopardy"-based strategy: take an assertion and then infer the question that leads to it. Then 
 
@@ -199,7 +199,7 @@ The authors also suggest starting with declarative standards:
 
 The authors recommend thinking about facets of understanding to help with generating essential questions that lead to understanding and evidence of understanding. They offer a tool for generating appropriate language appropriate for these facets.
 
-### Using essential questions
+## Using essential questions
 
 Since the purpose of essential questions is to elicit curiosity and then guide inquiry into content, they can guide unit and lesson design:
 
@@ -211,7 +211,7 @@ Since the purpose of essential questions is to elicit curiosity and then guide i
 
 The authors finish with an impassioned plea for instructors to prioritize essential questions in thinking about and doing their work. The authors encourage us to favor questions that highlight contested ideas and the provisional nature of claims. Doing so invites students to participate in the process of recognizing, proposing, testing, and solidifying understandings. In fact, they suggest that essential questions should serve as the *criteria* against which we judge progress in learning. Ideally we would ask if an educational activity is helping students to answer and explore the essential questions.
 
-### Examples
+## Examples
 
 - Is the subjunctive mood necessary in English? — in all languages?
 - In what ways is algebra real and in what ways unreal?
