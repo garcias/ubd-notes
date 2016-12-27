@@ -246,8 +246,8 @@ The authors finish with an impassioned plea for instructors to prioritize essent
 An "understanding":
 
 - expresses an inference drawn from shared and discussed experience
-- *is* a complete idea (rather than just referring to one)
-- transfers across disciplines
+- *is* a complete proposition (rather than just referring to an idea)
+- pertains to general ideas that transfer across disciplines
 - involves counterintuitive and easily misunderstood ideas
 - hints at the outlines of a historical dispute
 - cannot be grasped immediately, but only by exploring its dimensions
@@ -255,7 +255,7 @@ An "understanding":
 - provides strategic principles for applying skills
 
 
-## Examples
+## Features of an understanding
 
 ### Understanding as transferable inference
 
@@ -272,6 +272,53 @@ An understanding is prone to dispute because it involves a counterintuitive idea
 ### Understanding as strategy
 
 An understanding requires skill before you can grasp it and transfer it. Thus an understanding should highlight or at least hint at strategic principles for applying skills to solving a problem. Close reading is necessary to finding meaning in a text. Vectorial addition is needed to understand how celestial mechanics are perceived by a geocentric observer.
+
+## Issues in crafting understandings
+
+### Developmental issues
+
+The authors acknowledge that for young learners, the distinction between fact and understanding can be gray, since:
+
+> What is initially a difficult inference can become, over time, an accepted and "obvious" fact.
+
+This is a form of the Expert Blind Spot. As experts, we recognize that the value of expressng a hard-won understanding is that we no longer have to clarify, test, and refine it. It is too tempting to assert our understanding by asking the learner to accept and commit the understanding for recall. 
+
+This risk implies that we need to stop and consider the student: will the desired understanding tread new ground for them? One way to remain adaptive is to offer initial and ongoing checks for misconceptions. A key step is to admit and recall one's own "former views and struggles" for understanding, which experts tend to forget or resist. Another helpful step is to *introduce vocabulary only when it is necessary to clarify ideas and discussion*.
+
+### Misunderstandings
+
+Students are inherently comfortable with old misunderstandings, so it is not effective to simply introduce contradictory ones on the side and hope they displace the old ones. Instead, the misunderstandings must be identified and their flaws explored and acknowledged. To learn a proper golf swing, first unlearn the intuitive but naïve golf swing a learner assumes must be best.
+
+### Contested areas of study
+
+For some subjects, there is no consensus undestanding. In this case, the contention itself is the understanding. A good example are the causes of the Civil War. The issues, methods, and analyses are still important ideas and there are still essential questions.
+
+## Examples
+
+### Pythagorean theorem example
+
+The authors consider the Pythagorean theorem to illustrate the nature of an understanding. They point out that the theorem statement itself is simple but non-obvious, and hides a plethora of connected ideas and inferences.
+
+- The theorem holds true for any right triangle, regardless of size or shape.
+- The claim can be proven true for all triangles.
+- The proof essentially enables all of trigonometry, comparison of arbitrary shapes, and the measurement of distance in multiple dimensions.
+- We cannot prove it by inspection, but by logical argument (whether graphical or verbal).
+- The claim is deduced from axioms and logic, not observed empirically.
+
+### Golf course example
+
+The authors present an example of writing understandings for unit design:
+
+> - Toital force equals the sum of force each body segment produces if the forces are applied in a single direction with specific sequence and timing.
+> - When all forces are applied sequentially in the same direction and with proper timing, maximum force is achieved.
+> - Muscular contractions and create, resist, and stop force.
+> - Internal force production dpeends on the number and size of muscles, stretch reflex, and distance and speed of contraction.
+> - A muscle generates maximum force by contracting through its full range of motion.
+> - Follow-through allows for greater momentum on release, because deceleration can occur after release.
+
+The authors warn that while these statements are informative for unit design, they probably won't make sense to novices and shouldn't be part of instruction.
+
+
 
 - Writing from another person's perspective can help you better understand yourself, others, and the world you live in.
 - Photographs reflect a point of view and can mislead as much as reveal.
