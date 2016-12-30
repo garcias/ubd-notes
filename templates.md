@@ -148,3 +148,33 @@ Test that each understanding ...
 3. is stated as a specific and insightful generalization
 4. is either topical or broad, but not both
 
+
+# Assessment
+
+## Designing performance tasks
+
+### GRASPS
+
+To generate an authentic performance task, address the *GRASPS* aspects of a task.
+
+- **Goal:** task, problem, or desired outcome
+- **Role:** job, request, contract
+- **Audience:** clients, stakeholders, supervisors
+- **Situation:** context, constraints, backstory, challenge
+- **Product:** create, develop
+- **Standards:** criteria for success, benchmarks, outcomes
+
+### Check
+
+**Frame.**      Problem statement is clear, but offers no clues to relevant principles or skills.
+
+**Approach.**   Strategy is required, but multiple are possible and the appropriate ones are not obvious.
+
+**Setting.**    Noisy with multiple factors, constraints, and data to consider
+
+**Solution.**   Requires support and argument to be believed.
+
+**Evidence.**   Plausibility and justification of approach matter.
+
+
+
