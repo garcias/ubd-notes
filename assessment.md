@@ -72,3 +72,168 @@ A leak severely damaged the south and west walls of one room in a home. A drywal
 
 Historical writings suggest a possible massacre of Cheyenne Indians during the Civil War in { _ }. No detailed narratives or reviews have been written about this particular incident, but there are conflicting first-hand accounts and transcripts of Senate business that touch on it. Department faculty and history majors are producing a collection of narratives about local history seen from different perspectives. Piece together your own narrative of what happened for inclusion in this collection. The editors will require a letter, less than 800 words, supporting the scholarly quality and significance of your work.
 
+
+## Sundry ideas for assessment
+
+### Metacognition
+
+Write a letter to your next teacher, addressing:
+
+- what you did and your unique contribution to the class
+- what you learned about your strengths and needs for learning
+- how you succeeded and what presented challenges
+- essential questions raised from this experience
+- new learning goals for the next experience
+- most important ideas and skills you are taking to the next class
+
+### Empathy
+
+At the end of any presentation, require the representative of the team to identify specific contributions of each team member toward their goal. Provide a vocabulary of possible terms (e.g., led discussion, generated questions, researched questions, analyzed data).
+
+At the end of team discussion, have each team member identify the specific contributions of each team member; then compare with each other and document 
+
+### 1-minute piece
+
+At the end of each class, have students write for one minute:
+
+- the main discovery or insight of the activity, that was new *to them*.
+- a major unresolved question that remains, or was raised
+
+### Discussion preparation
+
+Require students to bring a discussion preparation to each class meeting. At the beginning:
+
+- discuss questions with teammates, and prioritize them
+- share with a class
+- look for patterns among the shared questions
+
+
+# Performance standards
+
+## Criteria associated with understanding
+
+### Explanation
+
+A *sophisticated* explanation:
+
+- articulates relevant points of a theory or model
+- addresses multiple aspects of an issue
+- accounts for multiple observations or concerns
+- cites multiple lines of evidence per assertion
+- applies principles consistently
+- reveals relevance of seemingly unconnected ideas
+- follows through on implications of account
+- represents premises accurately
+- expresses inferences and predictions logically
+
+A *naive* explanation:
+
+- speculates without follow-up
+- makes sweeping generalizations
+- generates multiple speculations per observation
+- addresses concerns superficially
+- fails to recognize underlying assumptions
+
+### Application
+
+A *masterful* application:
+
+- adapts methods and principles to situation
+- employs models consistently
+- considers multiple possible options and judges which are relevant
+- predicts and navigates the implications of proposed options
+- identifies possible tools and resources readily
+- identifies and uses a strategy to make choices more efficiently
+- recognizes and applies constraints
+
+A *novice* application:
+
+- requires coaching
+- applies methods in the wrong order
+- applies methods to the wrong aspects of the situation
+- applies irrelevant principles to situation
+- relies on facile rules or templates
+
+### Interpretation
+
+An *insightful* interpretation:
+
+- translates observations or artifact to meaning
+- "reads between the lines" beyond surface value
+- reveals hidden meaning and relevance
+- produces a narrative
+- makes plausible suggestions
+- distinguishes significant elements from incidental ones
+- cites evidence to support suggestions
+- illustrates context
+
+A *literal* interpretation:
+
+- relies on facile rules to translate or decode elements
+- overlooks wider significance of artifact
+- paraphrases elements without adding context
+
+### Perspective
+
+A *coherent* perspective:
+
+- encompasses mutiple points of view
+- considers multiple elements of each perspective
+- compares specific elements of different perspectives
+- identifies or predicts mplications of difference
+- identifies specific strengths and weaknesses
+- recognizes specific challenges of a perspective
+- traces differences to specific premises and context
+- expresses conflicting arguments fairly and neutrally
+- reveals broader ideas through comparison of perspectives
+
+An *uncritical* perspective:
+
+- overlooks alternative points of view
+- relies on ad hominem criticism
+- essentializes differences
+
+### Empathy
+
+A *mature sensitive* performance:
+
+- anticipates the responses of others to an action or idea
+- accepts unfamiliar insights or methods
+- seeks other perspectives
+- seeks participation by collaborators
+- responds to externally located concerns
+- shuts up occasionally
+- acknowledges specific contributions of others
+
+An *egocentric* performance:
+
+- lacks awareness of collaborative efforts and contributions
+- dismisses alternative perspectives
+- prioritizes accuracy exclusively
+
+### Metacognition
+
+A *reflective* performance:
+
+- recognizes limits to knowledge
+- considers and acknowledges potential personal bias
+- considers personal assumptions
+- identifies specific knowledge to be acquired
+- generates questions to guide further inquiry
+- separates personal beliefs and inferences from those of others
+- predicts effect of personal projections
+
+
+### Overall themes
+
+- specific
+- comprehensive
+- efficient
+- implications
+- judgment
+- discrimination
+- justification
+- premised
+- logical
+
+
