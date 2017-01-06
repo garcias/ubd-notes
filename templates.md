@@ -23,7 +23,7 @@ What key knowledge and skills will students gain? What should they be able to do
 
 ### Performance expectations
 
-What authentic tasks will demonstrate facets of understanding? What criteria can you apply consistently and meaningfully?
+What authetic tasks will demonstrate facets of understanding? What criteria can you apply consistently and meaningfully?
 
 ### Other evidence
 
