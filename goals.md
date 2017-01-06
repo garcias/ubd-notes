@@ -522,7 +522,9 @@ They assert that such ideas provide a focusing lens for studying a particular to
 
 ## Provocative idea of UbD
 
-UbD actively embraces a core idea that is so unintuitive to many people: that thorough, deep undestanding of a discipline's representative ideas *is equivalent to* knowing the entire discipline, because it promotes comprehension of patterns, speeds acquisition of other elements, and generates new knowledge for the discipline.
+UbD actively embraces a core idea that is so unintuitive to many people: that thorough, deep undestanding of a discipline's representative ideas *is equivalent to* knowing the entire discipline, because it promotes comprehension of patterns, speeds acquisition of further knowledge, and generates new inquiries for the discipline.
+
+This provocative idea is itself worthy of discussion with students.
 
 
 ## Methods of generating big ideas
