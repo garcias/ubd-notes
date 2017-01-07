@@ -75,6 +75,20 @@ Historical writings suggest a possible massacre of Cheyenne Indians during the C
 
 ## Sundry ideas for assessment
 
+### Grading
+
+- volunteer for roles
+- revise your work
+- discuss progress
+- promote, support, or facilitate collaborative activities
+- provide value to a community
+- have contribution to a project accepted
+- demonstrate knowledge
+- total mastery 
+- progress goals over time
+- exams
+- quizzes
+
 ### Metacognition
 
 Write a letter to your next teacher, addressing:
@@ -180,7 +194,7 @@ A *coherent* perspective:
 - encompasses mutiple points of view
 - considers multiple elements of each perspective
 - compares specific elements of different perspectives
-- identifies or predicts implications of difference
+- identifies or predicts mplications of difference
 - identifies specific strengths and weaknesses
 - recognizes specific challenges of a perspective
 - traces differences to specific premises and context
