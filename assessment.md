@@ -159,6 +159,7 @@ A *masterful* application:
 - identifies possible tools and resources readily
 - identifies and uses a strategy to make choices more efficiently
 - recognizes and applies constraints
+- seeks out and marshalls relevant resources
 
 A *novice* application:
 
@@ -167,6 +168,7 @@ A *novice* application:
 - applies methods to the wrong aspects of the situation
 - applies irrelevant principles to situation
 - relies on facile rules or templates
+- ignores resources associated with subject
 
 ### Interpretation
 
