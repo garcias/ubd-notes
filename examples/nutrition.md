@@ -88,3 +88,44 @@
 16. Students work individually to develop three-day camp menu; collect and give feedback; students assess projects using rubrics. Evaluate, Adapt.
 17. Students review their daily eating chart and self assess healthfulness of diet: changes, improvements, feelings?. Evaluate, Reflect.
 18. Students develop personal "eating action plan" to improve their health; collect and present at student-led parent conferences. Evaluate, Adapt.
+
+## Evidence by facet
+
+### If the desired result is for students to understand that
+
+- a balanced diet contributes to physical and mental health
+- the USDA food pyramid represents relative guidelines for nutrition
+- dietary requirements vary for individuals based on age, activity level, weight, and overall health
+- healthful living requires an individual to act on available information about good nutrition, even if it means breaking comfortable habits
+
+### and consider the questions
+
+- What is healthful eating?
+- Are you a healthful eater? How would you know?
+- How could a healthy diet for one person be unhealthy for another?
+- Why are there so many health problems in the U.S. despite plentiful information?
+
+
+### Then you need evidence of the student's ability to:
+
+- Explain a balanced diet
+- Explain the consequences of poor nutrition
+- Explain why we eat poorly, despite the information available
+- Interpret food nutrition labels
+- Interpret data on the impact of fast foods on eating patterns
+- Apply health knowledge to menu planning
+- Apply understanding by evalulating plans and diets
+- See Perspective of other cultures on dietary beliefs
+- Empathize with a person living with dietary restrictions
+- Reflect on personal eating habits
+- Reflect on whether healthful foods taste bad
+
+
+### Therefore assessments might involve:
+
+- Develop a brochure to help younger students understand what a balanced diet means, and health problems that might result.
+- Discuss the popularity of fast foods and the challenge of eating a healthful diet in today's world
+- Plan a menu for a class party consisting of healthy, yet tasty snacks.
+- Conduct and present research on the impact of diverse diets on health and longevity.
+- Describe how one's life would be affected by a dietary restriction for medical or religious causes.
+- Reflect on whether your diet is healthy, and how to make it healthier.

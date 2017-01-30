@@ -178,3 +178,40 @@ To generate an authentic performance task, address the *GRASPS* aspects of a tas
 
 
 
+# UbD Assessment builder by facet
+
+What aspects of the unit or course reveal the following abilities of a student who understands the subject?
+
+## Explain
+
+- **Account for observations**. Provide complex, insightful, and credible reasons for an event, fact, text, or idea; connecting theories, principles, and models to evidence and logic as part of a systematic account.
+- **Avoid misunderstandings**. Make fine, subtle distinctions in order to map their knowledge and methods to a situation precisely.
+- **Recognize significance**. See central ideas, key questions, and decisive evidence; and justify their account using sound arguments.
+
+## Interpret
+
+- **Translate materials**. "Read between the lines" and offer possible meanings behind artifacts and discourse
+- **Offer context**. Recognize the implications of scholarship that are specific to a context
+
+## Apply
+
+- **Employ knowledge**. Map principles and background to a situation.
+- **Innovate**. Adjust approach and methods as information arises
+
+## Perspective
+
+- **Critique**. Present a position as a point of view justified by premises and rationale. Contrast the arguments for and against an assertion. Consider a perspective fully.
+- **Acknowledge uncertainty**. Recognize the limits of an idea, method, or argument.
+- **Detect bias**. Recognize potential bias and its source. Infer the assumptions underlying an idea and interests that motivate it.
+
+## Empathize
+
+- **Anticipate others**. Anticipate the responses of others to an action or idea, respond to concerns, and seek their insight.
+- **Collaborate**. Ensure participation in discourse, acknowledge others' contributions, recognize heterogeneous abilities and insights
+- **Embrace others**. Accept unfamiliar insights or methods, find plausibility in flawed accounts, identify value of diverse thought.
+
+## Reflect
+- **Recognize personal limits**. Consider personal bias and assumptions, predict effects of personal projections, separate personal beliefs from those of others.
+- **Investigate**. Identify specific knowledge to be acquired and generate questions to guide further inquiry
+- **Acknowledge change**. Narrate trajectory of understanding and change mind.
+

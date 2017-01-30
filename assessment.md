@@ -196,7 +196,7 @@ A *coherent* perspective:
 - encompasses mutiple points of view
 - considers multiple elements of each perspective
 - compares specific elements of different perspectives
-- identifies or predicts mplications of difference
+- identifies or predicts implications of difference
 - identifies specific strengths and weaknesses
 - recognizes specific challenges of a perspective
 - traces differences to specific premises and context
