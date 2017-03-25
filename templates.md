@@ -106,7 +106,7 @@ How will students:
 - What are my strengths and weaknesses in { _ }?
 
 
-## Identifying essential questions and unerstandings
+## Identifying essential questions and understandings
 
 ### What are the topics and core ideas?
 
