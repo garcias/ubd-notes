@@ -1,6 +1,6 @@
 # Action verbs used in teaching and learning
 
-*Original list from Center for Teaching and Learning at UNC Charlotte, http://teaching.uncc.edu/learning-resources/articles-books/best-practice/goals-objectives/action-verbs, reorganized by verb.*
+*Based primarily on list published by Center for Teaching and Learning at UNC Charlotte, http://teaching.uncc.edu/learning-resources/articles-books/best-practice/goals-objectives/action-verbs, reorganized by verb.*
 
 Using behavioral verbs in our course and assessment activities has a number of benefits for engaging students in the learning process. First, because they describe an observable product or action, we can use them to devise activities that make the student an active participant in his or her learning. Secondly they may be used to help to translate our course goals and objectives into situations that are more concrete to the student and others. Their use also facilitates assessment because it allows us to make inferences about student learning through observable student behavior or products. The first section includes general definitions that describe only the observable behavior and do not include linkages to any specific content. Examples in selected discipline areas (science, math, social sciences) are provided at the end of the handout.
 
