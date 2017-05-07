@@ -44,4 +44,69 @@ A student will analyze a documented nutritional problem, determine a strategy to
     - consistent with syllabus and program goals
     - will make sense to the student
 
+### Cognitive-domain verbs
+
+(from [Cognitive Domain Table](http://www2.bakersfieldcollege.edu/courseassessment/Section_3_SLOs/Section3_7dCognitive.htm))
+
+- Knowledge	
+    - Student remembers or recognizes information or specifics as communicated with little personal assimilation. 
+    - Cite, Label, List, Enumerate, Identify, Match, Imitate, Name, Quote, Recall, Reproduce, State, Write
+- Comprehension	
+    - Student grasps the meaning behind the information and interprets, translates, or comprehends the information.
+    - Convert, Define, Describe, Discuss, Estimate, Explain, Generalize, Identify, Illustrate, Locate, Paraphrase, Restate, Summarize
+- Application	
+    - Student uses information to relate and apply it to a new situation with minimal instructor input.
+    - Apply, Chart, Compute , Demonstrate, Determine, Dramatize, Establish, Make, Manipulate, Prepare, Project, Solve , Use
+- Analysis	
+    - Student discriminates, organizes, and scrutinizes assumptions in an attempt to identify evidence for a conclusion.
+    - Analyze, Compare, Contrast, Correlate, Diagram, Dissect, Differentiate, Distinguish, Infer, Investigate, Limit, Outline, Separate
+- Synthesis	
+    - Student creatively applies knowledge and analysis to integrate concepts or construct an overall theory.
+    - Assemble, Create, Construct, Design, Develop, Formulate, Generate, Hypothesize, Initiate, Invent, Modify, Reframe, Synthesize
+- Evaluation	
+    - Student judges or evaluates information based upon standards and criteria, values and opinions.
+    - Access, Appraise, Conclude, Critique, Decide, Defend, Diagnose, Evaluate, Judge, Justify, Rank, Recommend, Support
+
+### Psychomotor-domain verbs
+
+(from [Psychomotor Domain Table](http://www2.bakersfieldcollege.edu/courseassessment/Section_3_SLOs/Section3_7dCognitive.htm))
+
+- Observe
+    - Students translate sensory input into physical tasks or activities.
+    - Hear, Identify, Observe, See, Smell, Taste, Touch, Watch
+- Model
+    - Students are able to replicate a fundamental skill or task.
+    - Attempt, Copy, Follow, Imitate, Mimic, Model, Reenact, Repeat, Reproduce, Show, Try
+- Recognize
+    - Standards	Students recognize standards or criteria important to perform a skill or task correctly.
+    - Check, Detect, Discriminate, Differentiate, Distinguish, Notice, Perceive, Recognize, Select
+- Correct
+    - Students use standards to evaluate their own performances and make corrections.
+    - Adapt, Adjust, Alter, Change, Correct, Customize, Develop, Improve, Manipulate, Modify, Practice, Revise
+- Apply
+    - Students apply this skill to real life situations.
+    - Build, Compose, Construct, Create, Design, Originate, Produce
+- Coach
+    - Students are able to instruct or train others to perform this skill in other situations.
+    - Demonstrate, Exhibit, Illustrate, Instruct, Teach, Train
+
+### Affective-domain verbs
+
+(from [Affective Domain Table](http://www2.bakersfieldcollege.edu/courseassessment/Section_3_SLOs/Section3_7bAffective.htm))
+
+- Receiving
+    - Students become aware of an attitude, behavior, or value.
+    - Accept, Attend, Describe, Explain, Locate, Observe, Realize, Receive, Recognize
+- Responding
+    - Students exhibit a reaction or change as a result of exposure to an attitude, behavior, or value.
+    - Behave, Comply, Cooperate, Discuss, Examine, Follow, Model, Present, Respond, Show, Studies
+- Valuing
+    - Students recognize value and display this through involvement or commitment.
+    - Accept, Adapt, Balance, Choose, Differentiate, Defend, Influence, Prefer, Recognize, Seek, Value
+- Organizing
+    - Students determine a new value or behavior as important or a priority.
+    - Adapt, Adjust, Alter, Change, Customize, Develop, Improve, Manipulate, Modify, Practice, Revise
+- Characterizing
+    - Students integrate consistent behavior as a naturalized value in spite of discomfort or cost. The value is recognized as a part of the person’s character.
+    - Authenticate, Characterize, Defend, Display, Embody, Habituate, Internalize, Produce, Represent, Validate, Verify
 
